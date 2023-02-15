@@ -1,1 +1,0 @@
-function isPositiveNumber(n) {}
